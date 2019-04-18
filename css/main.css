@@ -3403,13 +3403,13 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .display-1 a {
-  color: #035D5C;
+  color: #F26522;
 }
 
 .s-contact .display-1 a:hover,
 .s-contact .display-1 a:focus,
 .s-contact .display-1 a:active {
-  color: #F26522;
+  color: #035D5C;
 }
 
 .s-contact h4 {
